@@ -1,0 +1,13 @@
+{
+  "name": "10-membuat-contact-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/husnawan21/contact-app.git",
+  "author": "<husnawandwi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "validator": "^13.7.0",
+    "yargs": "16.2.0"
+  }
+}
